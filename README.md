@@ -14,10 +14,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/fabriciobettarello/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaopedrovieirademorais/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"/>
   </a>
-  <a href="https://instagram.com/bettarello_" target="_blank">
+  <a href="https://instagram.com/jpvieira.m/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"/>
   </a>
 </div>
