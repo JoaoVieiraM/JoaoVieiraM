@@ -1,4 +1,4 @@
-<h1 align="left">João Pedro Vieira de Morais</h1>
+# João Pedro Vieira de Morais
 
 ###
 
